@@ -1,5 +1,5 @@
 # Clip
-A Simple iOS Clipboard Tool
+A Simple iOS Clipboard Tool. (Requires iOS 18.1+.)
 
 Designed not to run in the background. (If you want a clipboard that runs in the background use [Clip](https://cdn.altstore.io/file/altstore/apps/clip/1_2_b.ipa) by `rileytestut` or [Pycopaste](https://apps.apple.com/us/app/clipboard-manager-pycopaste/id1635345871).)
 
